@@ -1,6 +1,6 @@
 # Shivanshu
-# Hi there, I'm [Your Name] 👋
-A passionate [your job title / role] from [location]
+# Hi there, I'm Shivanshu👋
+A passionate [your job title / role] from Barrie, ON
 
 - 🔭 I’m currently working on [Project Name or Area]
 - 🌱 I’m learning [Technology / Framework]
